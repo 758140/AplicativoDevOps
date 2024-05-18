@@ -7,5 +7,5 @@ for(let i = 0; i < numeros.lengt; i++){
     console.log(numero[i] + " é um número par):
   }else{
     console.log(numero[i] + " é um numero impar);
-    }
+   }
 }
